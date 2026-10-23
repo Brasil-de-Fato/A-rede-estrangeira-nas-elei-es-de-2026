@@ -80,9 +80,6 @@ Links diretos (o estado do mapa fica depois do `#`):
 | `mapa-rede-2026.html#v=circulos` | a vista em círculos |
 | `mapa-rede-2026.html#r=completa` | a rede completa |
 
-Detalhes técnicos de hospedagem estão em
-[`2 - Mapa interativo/LEIA-ME-TI (hospedagem).md`](2%20-%20Mapa%20interativo/LEIA-ME-TI%20(hospedagem).md).
-
 ### Publicação no GitHub Pages
 
 1. Em **Settings → Pages**, escolha **Deploy from a branch**, branch `main`, pasta `/ (root)`.

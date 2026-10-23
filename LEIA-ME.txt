@@ -22,8 +22,9 @@ O QUE HÁ NESTA PASTA
     - mapa-rede-2026.html: português
     - foreign-network-map-2026.html: inglês
     Cada página é um arquivo único, que funciona offline e não depende de servidor nem de serviços externos.
-    Para abrir, basta clicar duas vezes no arquivo. Para publicar no site, a equipe técnica deve seguir o
-    arquivo "LEIA-ME-TI (hospedagem).md" desta mesma pasta. A pasta "licencas" traz os créditos das 198 fotos
+    Para abrir, basta clicar duas vezes no arquivo. A versão publicada está em
+    https://brasil-de-fato.github.io/A-rede-estrangeira-nas-elei-es-de-2026/
+    A pasta "licencas" traz os créditos das 198 fotos
     (todas de licença livre, da Wikimedia Commons) e as licenças das fontes tipográficas e da biblioteca
     gráfica. Recomenda-se publicá-la junto com o mapa.
 
