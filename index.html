@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<title>A rede estrangeira — eleições de 2026</title>
+<meta name="description" content="Mapa interativo da rede internacional em torno da candidatura de Flávio Bolsonaro em 2026.">
+<style>
+  :root { --bg: #f6f5f1; --fg: #1d1d1b; --muted: #5d5b55; --card: #ffffff; --line: #d9d6cc; --accent: #9b2c1f; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #141413; --fg: #ecebe6; --muted: #a3a097; --card: #1e1e1c; --line: #34332f; --accent: #e07a5f; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg);
+         font: 17px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 56px 16px 40px; }
+  .kicker { color: var(--accent); font-weight: 600; letter-spacing: .06em; text-transform: uppercase; font-size: 13px; }
+  h1 { font-size: clamp(28px, 6vw, 42px); line-height: 1.15; margin: 8px 0 16px; }
+  p { color: var(--muted); margin: 0 0 16px; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 32px 0; }
+  a.card { display: block; padding: 20px; border: 1px solid var(--line); border-radius: 10px;
+           background: var(--card); color: var(--fg); text-decoration: none; }
+  a.card:hover, a.card:focus-visible { border-color: var(--accent); }
+  a.card strong { display: block; font-size: 19px; margin-bottom: 4px; }
+  a.card span { color: var(--muted); font-size: 15px; }
+  .note { font-size: 14px; border-top: 1px solid var(--line); padding-top: 16px; }
+  .note a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <div class="kicker">Eleições de 2026 · Brazil's 2026 election</div>
+  <h1>A rede estrangeira</h1>
+  <p>Mapa interativo da rede internacional de pessoas, organizações e dinheiro em torno da candidatura de
+     Flávio Bolsonaro. Cada laço traz a fonte em que foi lido.</p>
+  <p lang="en">An interactive map of the international network around Flávio Bolsonaro's campaign. Every
+     link cites its source.</p>
+
+  <div class="cards">
+    <a class="card" href="2%20-%20Mapa%20interativo/mapa-rede-2026.html" hreflang="pt-BR">
+      <strong>Abrir o mapa</strong>
+      <span>Português</span>
+    </a>
+    <a class="card" href="2%20-%20Mapa%20interativo/foreign-network-map-2026.html" hreflang="en" lang="en">
+      <strong>Open the map</strong>
+      <span>English</span>
+    </a>
+  </div>
+
+  <p class="note">Dados até 23 de outubro de 2026. Acusação não é condenação, e um laço no mapa não indica
+     crime. · Data as of 23 October 2026. Allegations are not convictions, and a link does not imply
+     wrongdoing. · <a href="2%20-%20Mapa%20interativo/licencas/creditos-fotos.csv">Créditos das fotos / Photo credits</a></p>
+</main>
+</body>
+</html>

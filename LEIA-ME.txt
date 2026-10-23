@@ -1,0 +1,61 @@
+A REDE ESTRANGEIRA NAS ELEIÇÕES DE 2026
+Material de apoio para a redação
+
+Situação dos dados: 23 de outubro de 2026, dois dias antes do 2º turno.
+
+
+O QUE HÁ NESTA PASTA
+
+1 - Relatório
+    Investigação sobre a rede internacional em torno da candidatura de Flávio Bolsonaro: o que foi oferecido
+    a Washington e não ao eleitor, quem financia a rede e quem paga a conta.
+    - Português: "A rede estrangeira nas eleições de 2026"
+    - English: "The Foreign Network in Brazil's 2026 Election"
+    Cada idioma vem em duas versões do mesmo texto:
+    - .docx, para editar, recortar e citar;
+    - .pdf, para leitura (179 páginas, com as notas no pé de cada página).
+    As duas versões trazem os mesmos fatos e as mesmas notas. Cada afirmação tem nota com a fonte: documento
+    oficial, processo judicial, registro de empresa, reportagem ou estudo acadêmico, com o link.
+
+2 - Mapa interativo
+    Mapa navegável da rede: pessoas, organizações e laços, cada laço com a fonte em que foi lido.
+    - mapa-rede-2026.html: português
+    - foreign-network-map-2026.html: inglês
+    Cada página é um arquivo único, que funciona offline e não depende de servidor nem de serviços externos.
+    Para abrir, basta clicar duas vezes no arquivo. Para publicar no site, a equipe técnica deve seguir o
+    arquivo "LEIA-ME-TI (hospedagem).md" desta mesma pasta. A pasta "licencas" traz os créditos das 198 fotos
+    (todas de licença livre, da Wikimedia Commons) e as licenças das fontes tipográficas e da biblioteca
+    gráfica. Recomenda-se publicá-la junto com o mapa.
+
+3 - Painel
+    Resumo visual em 4 páginas:
+    - página 1: quem é a rede;
+    - página 2: o que foi prometido a Washington e não ao eleitor;
+    - página 3: o caminho do dinheiro;
+    - página 4: o que está em jogo e quem paga a conta.
+    Vem em PDF (português e inglês) e em imagens PNG página por página, prontas para redes sociais.
+
+
+CUIDADOS NA HORA DE PUBLICAR
+
+- Acusação não é condenação. O relatório separa o que está provado em documento do que é acusação ou
+  investigação em curso, e registra as negativas dos citados. Ao recortar trechos, mantenha essa distinção:
+  - Fernando Cerimedo está preso na Bolívia e é acusado de tentativa de feminicídio; ele contesta a acusação.
+  - Paulo Figueiredo foi denunciado pela Procuradoria-Geral da República junto com Eduardo Bolsonaro e não
+    foi julgado. Só Eduardo foi condenado pelo STF, em junho de 2026.
+  - A suspeita de que o fundo do Texas pagou a estadia de Eduardo nos EUA é hipótese da Polícia Federal, e
+    Eduardo nega.
+  - Braga Netto nega ter entregue dinheiro a Mauro Cid.
+- Um laço no mapa não indica crime. Alinhamento político aberto, financiamento ilegal e operação encoberta
+  são coisas diferentes; o mapa registra vínculos que aparecem em fontes, não intenções.
+- O relatório traz perguntas que seguem sem resposta, por exemplo: quem escreveu o documento que Flávio
+  entregou ao governo dos EUA, quem são os donos da Rockbridge Brazil LLC e quem vai receber o US$ 1 milhão
+  do Departamento de Estado. Elas estão no fim do capítulo 9 e na página 4 do painel e podem orientar
+  novas pautas.
+- Fatos posteriores a 23 de outubro de 2026 não estão no material.
+
+
+USO E CRÉDITO
+
+O material pode ser publicado, recortado e traduzido. Ao reproduzir fotos do mapa fora dele, mantenha o
+crédito e a licença indicados em "2 - Mapa interativo/licencas/creditos-fotos.csv".

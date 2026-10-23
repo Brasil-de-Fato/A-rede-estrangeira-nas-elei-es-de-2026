@@ -1,0 +1,11 @@
+# Pareceres internos de avaliação (não publicar)
+relatorio.txt
+relatorio.pdf
+atencao.txt
+
+# Arquivos temporários do Office e do sistema
+~$*
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
